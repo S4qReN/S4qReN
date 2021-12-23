@@ -1,5 +1,5 @@
 ### SaqReN
-### 
+### <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=s4qren&hide_title=true&hide_border=true&theme=cobalt&show_icons=true&include_all_commits=true&&line_height=21"/>
 
 <!--
 **S4qReN/S4qReN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
